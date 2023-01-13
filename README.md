@@ -1,4 +1,21 @@
-### Hi there 👋
+### Github🌎🌠🌃
+
+</br>
+<span style='background-color: #F7DDBE'>운과 모방은 세상을 진보시킨다.</span>  
+<span style='background-color: #F7DDBE'>끈기는 운의 확률을 높인다.</span>  
+
+Luck and imitation advance the world.  
+Persistence increases the probability of good luck.
+
+</br>
+</br>
+
+
+- 🔭 I'm an undergraduate majoring in computer science. 💻
+- 🌱 l'm passionate in web/app development and algorithm.
+
+</br>
+
 
 <h2> My Frequently used tech stack 📚 </h2>
 
@@ -10,12 +27,15 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 </br>
-</br>
-</br>
-<h2> Contacts </h2>
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gyumin-moon-2020-byte)
+<h2>📫 Contacts </h2>
+
+<a href="gmmoon0824@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gyumin-moon)
+[![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=TSTORY&theme=vue)](https://21ha.tistory.com/)
+
+
 
 
 
