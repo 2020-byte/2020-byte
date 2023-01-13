@@ -6,7 +6,7 @@
 끈기는 운의 확률을 높인다. 
 
 Luck and imitation advance the world.  
-Persistence increases the probability of good luck.
+Persistence increases the probability of Luck.
 
 </br>
 </br>
