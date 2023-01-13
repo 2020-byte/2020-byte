@@ -1,8 +1,9 @@
 ### Github🌎🌠🌃
 
 </br>
-<span style='background-color: #F7DDBE'>운과 모방은 세상을 진보시킨다.</span>  
-<span style='background-color: #F7DDBE'>끈기는 운의 확률을 높인다.</span>  
+운과 모방은 세상을 진보시킨다.  
+
+끈기는 운의 확률을 높인다. 
 
 Luck and imitation advance the world.  
 Persistence increases the probability of good luck.
