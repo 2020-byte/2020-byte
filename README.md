@@ -1,4 +1,5 @@
-### Github🌎🌠🌃
+## Github <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25" height="25">
+
 
 </br>
 
@@ -7,11 +8,11 @@
 
 
 </br>
-</br>
 
 
-- 🔭 I'm an undergraduate majoring in computer science. 💻
-- 🌱 l'm passionate in web/app development and algorithm.
+> ### 🔭 I'm an undergraduate majoring in computer science. 💻
+> ### 🌱 l'm passionate in web/app development and algorithm.
+
 
 </br>
 
@@ -56,6 +57,7 @@ Here are some ideas to get you started:
 
 
 ![WebmasterWebsiteGIF](https://user-images.githubusercontent.com/76520105/220845002-08afc517-0295-4c4e-be40-56a77b904423.gif)
+![GitHub Logo](https://i.imgur.com/9I6NRUm.png)
 
 -->
 
