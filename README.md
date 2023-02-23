@@ -1,12 +1,8 @@
 ### Github🌎🌠🌃
 
 </br>
-운과 모방은 세상을 진보시킨다.  
+🦈![Sharkweek2022GIF](https://user-images.githubusercontent.com/76520105/220843383-5de42c68-c384-4aed-a7bf-bf743cc21d82.gif)
 
-끈기는 운의 확률을 높인다. 
-
-Luck and imitation advance the world.  
-Persistence increases the probability of Luck.
 
 </br>
 </br>
