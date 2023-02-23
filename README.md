@@ -1,7 +1,8 @@
 ### Github🌎🌠🌃
 
 </br>
-![🦈](https://user-images.githubusercontent.com/76520105/220843383-5de42c68-c384-4aed-a7bf-bf743cc21d82.gif)
+
+
 
 
 </br>
