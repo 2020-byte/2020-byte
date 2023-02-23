@@ -2,7 +2,8 @@
 
 </br>
 
-![night_city](https://user-images.githubusercontent.com/76520105/220843601-d3cc78bd-bf4a-43a8-964f-ab75af612bba.gif)
+![WebsiteGIF](https://user-images.githubusercontent.com/76520105/220845170-4fa1eca9-bdf6-4749-b8ce-4529c37131dc.gif)
+
 
 
 </br>
@@ -52,6 +53,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![WebmasterWebsiteGIF](https://user-images.githubusercontent.com/76520105/220845002-08afc517-0295-4c4e-be40-56a77b904423.gif)
+
 -->
 
 
