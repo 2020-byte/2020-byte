@@ -1,23 +1,26 @@
 ## Github <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25" height="25">
 
+---
 
 </br>
 
-![WebsiteGIF](https://user-images.githubusercontent.com/76520105/220845170-4fa1eca9-bdf6-4749-b8ce-4529c37131dc.gif)
+<!-- <img alt="web_devlope.gif" src="https://user-images.githubusercontent.com/76520105/220845170-4fa1eca9-bdf6-4749-b8ce-4529c37131dc.gif"> -->
 
+<img alt="2020-byte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=2020-byte&show_icons=true&theme=tokyonight&layout=compact" /> 
 
-
-</br>
-
-
-> ### 🔭 I'm an undergraduate majoring in computer science. 💻
-> ### 🌱 l'm passionate in web/app development and algorithm.
 
 
 </br>
 
 
-<h2> My Frequently used tech stack 📚 </h2>
+- ### 🔭 I'm an undergraduate majoring in computer science. 💻
+- ### 🌱 l'm passionate in web/app development and algorithm.
+
+
+</br>
+
+
+<h2> My Major Tech Stack 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
