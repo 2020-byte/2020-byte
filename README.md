@@ -5,7 +5,7 @@
 
 <!-- <img alt="web_devlope.gif" src="https://user-images.githubusercontent.com/76520105/220845170-4fa1eca9-bdf6-4749-b8ce-4529c37131dc.gif"> -->
 
-<img alt="2020-byte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=2020-byte&show_icons=true&theme=tokyonight&layout=compact" /> 
+<img alt="2020-byte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&theme=tokyonight&layout=compact" /> 
 
 
 
