@@ -11,8 +11,10 @@
 
 </br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2020-byte&theme=default)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2020-byte&theme=default)
 
 
 </br>
