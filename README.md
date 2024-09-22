@@ -1,18 +1,18 @@
-## Github <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25" height="25">
+<!-- ## Github <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25" height="25"> -->
 <!-- <img alt="web_devlope.gif" src="https://user-images.githubusercontent.com/76520105/220845170-4fa1eca9-bdf6-4749-b8ce-4529c37131dc.gif"> -->
 
-<!--<img alt="2020-byte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=2020-byte&show_icons=true&theme=tokyonight&layout=compact" /> -->
+<!-- <img alt="2020-byte's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=2020-byte&show_icons=true&theme=tokyonight&layout=compact" />
 
 
 
-</br>
+<!-- </br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2020-byte&theme=default)
 
 
 
 
-</br>
+</br> --> 
 
 
 <h2> Major Tech Stack 📚 </h2>
@@ -36,7 +36,7 @@
 
 <h2>📫 Contacts </h2>
 
-<a href="gmmoon0824@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="gyuminweb@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gyumin-moon)
 [![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=TSTORY&theme=vue)](https://21ha.tistory.com/)
 
