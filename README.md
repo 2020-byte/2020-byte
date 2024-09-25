@@ -34,12 +34,12 @@
 </br>
 
 
-<h2>📫 Contacts </h2>
+<!-- <h2>📫 Contacts </h2>
 
 <a href="gyuminweb@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gyumin-moon)
 [![Tistory](https://github-readme-tistory-card.vercel.app/api/badge?name=TSTORY&theme=vue)](https://21ha.tistory.com/)
-
+ -->
 
 
 
